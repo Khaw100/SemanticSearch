@@ -1,0 +1,15 @@
+pandas == 2.0.3
+# GPU packages (choose one or both)
+# tensorflow-gpu>=2.9.1  # TensorFlow with GPU support
+# torch == 2.1.0+cu118  # PyTorch with GPU support (use with CUDA 11.7)
+
+# Machine learning libraries
+# scikit-learn == 1.1.3  # scikit-learn
+# numpy == 1.22.3  # NumPy
+
+# Natural Language Processing
+nltk == 3.8.1  # Natural Language Toolkit
+
+# Optional packages (consider adding these based on your needs)
+# matplotlib == 3.5.3  # Visualization
+# pandas == 1.4.3  # Data analysis
